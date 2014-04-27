@@ -8,7 +8,15 @@
             "postalCode": "1060"
         },
         "Contract information": {
-            "Comments": "Stijn is an <b><i>excellent</i></b> developer."
+            "Comments": "Stijn is an <b><i>excellent</i></b> developer.",
+            "__comments__": [
+                {
+                    "message": "Date of recruitment missing",
+                    "user": "test@skryv.com",
+                    "created": "2014-04-27T20:26:15.489Z",
+                    "on": "Date of recruitment"
+                }
+            ]
         },
         "Profile for which employee is entered": {
             "0": {
@@ -47,7 +55,15 @@
         "First Name": "Stijn",
         "Last Name": "Timbermont",
         "Date of birth": "1979-08-09T22:00:00.000Z",
-        "email": "stijn@timbermont.be"
+        "email": "stijn@timbermont.be",
+        "__comments__": [
+            {
+                "message": "Current function missing",
+                "user": "test@skryv.com",
+                "created": "2014-04-27T20:26:25.961Z",
+                "on": "Current function"
+            }
+        ]
     },
     "Professional Experience": {
         "0": []
