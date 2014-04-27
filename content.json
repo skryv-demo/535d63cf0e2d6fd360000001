@@ -1,1 +1,59 @@
-{}
+{
+    "Personalia": {
+        "Address": {
+            "googleplace": "Chaussée de Waterloo 180, Saint-Gilles, Belgium",
+            "number": "180",
+            "street": "Chaussée de Waterloo",
+            "city": "Saint-Gilles",
+            "postalCode": "1060"
+        },
+        "Contract information": {
+            "Comments": "Stijn is an <b><i>excellent</i></b> developer."
+        },
+        "Profile for which employee is entered": {
+            "0": {
+                "selectedChoices": {
+                    "Project manager (PM)": true,
+                    "Senior Analyst-Programmer (SAP)": true,
+                    "Analyst-Programmer (AP)": true
+                }
+            }
+        },
+        "Highest relevant educational qualification": {
+            "0": {}
+        },
+        "Languages": {
+            "English": {
+                "Spoken": 3,
+                "Written": 4
+            },
+            "French": {
+                "Spoken": 1
+            },
+            "German": {},
+            "Other(s)": {
+                "0": [
+                    {
+                        "Language": "Spanish",
+                        "Spoken": 3,
+                        "Written": 3
+                    }
+                ]
+            }
+        },
+        "Professional experience": {},
+        "First Name": "Stijn",
+        "Last Name": "Timbermont",
+        "Date of birth": "1979-08-09T22:00:00.000Z",
+        "email": "stijn@timbermont.be"
+    },
+    "Professional Experience": {
+        "0": []
+    },
+    "Software Expertise": {
+        "0": []
+    },
+    "Training Page": {
+        "0": []
+    }
+}
