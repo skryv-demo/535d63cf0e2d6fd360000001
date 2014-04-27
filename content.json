@@ -20,7 +20,9 @@
             }
         },
         "Highest relevant educational qualification": {
-            "0": {}
+            "0": {
+                "selectedChoice": "Master degree or equivalent (>=4 years)"
+            }
         },
         "Languages": {
             "English": {
