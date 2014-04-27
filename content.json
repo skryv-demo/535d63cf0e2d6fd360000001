@@ -16,7 +16,8 @@
                     "created": "2014-04-27T20:26:15.489Z",
                     "on": "Date of recruitment"
                 }
-            ]
+            ],
+            "Date of recruitment": "2014-03-31T22:00:00.000Z"
         },
         "Profile for which employee is entered": {
             "0": {
@@ -63,7 +64,8 @@
                 "created": "2014-04-27T20:26:25.961Z",
                 "on": "Current function"
             }
-        ]
+        ],
+        "Current function": "Developer"
     },
     "Professional Experience": {
         "0": []
